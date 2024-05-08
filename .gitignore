@@ -1,0 +1,6 @@
+*.lck
+ESLGSU_Adapter-backups/*
+\#auto_saved_files\#
+fp-info-cache
+ESLGSU_Adapter.zip
+ESLGSU_Adapter_V2.zip
